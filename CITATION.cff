@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "OSA Analyzer: optical spectrum analysis for fiber refractive-index sensors"
+version: 8.0.0
+date-released: 2026-10-15      # TODO: set to the GitHub release date
+license: MIT                    # TODO: confirm (see LICENSE)
+type: software
+authors:
+  - family-names: "TODO"
+    given-names: "TODO"
+    affiliation: "Universiti Teknologi Malaysia"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO
+    email: "joshu@graduate.utm.my"
+repository-code: "https://github.com/JoshhhLee/Optical-Spectrum-Analyzer-Software"
+# doi: 10.5281/zenodo.TODO    # add after Zenodo mints the DOI
+keywords:
+  - optical spectrum analyzer
+  - fiber optic sensor
+  - refractive index
+  - multimode interference
+  - machine learning

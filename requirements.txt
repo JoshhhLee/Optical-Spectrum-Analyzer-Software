@@ -1,0 +1,17 @@
+# Versions this release was tested with (Python 3.11, Windows 11).
+numpy==2.4.6
+scipy==1.17.1
+pandas==3.0.3
+scikit-learn==1.8.0
+matplotlib==3.10.9
+openpyxl==3.1.5
+joblib==1.5.3
+PyQt5==5.15.11
+pyqtgraph==0.14.0
+# optional models
+xgboost==3.2.0
+catboost==1.2.10
+# optional deep learning (CPU build): pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1
+# tests
+pytest

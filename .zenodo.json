@@ -1,0 +1,23 @@
+{
+  "title": "OSA Analyzer: optical spectrum analysis for fiber refractive-index sensors",
+  "upload_type": "software",
+  "version": "8.0.0",
+  "description": "Desktop application and Python package for analysing optical spectrum analyzer (Yokogawa AQ6370) measurements of fiber refractive-index sensors: resonance tracking with sub-sample wavelength estimation, sensitivity fitting with uncertainty and detection limit, and machine-learning RI regression with leakage-safe evaluation. Every exported result carries a provenance record (software versions, settings, input file hashes).",
+  "creators": [
+    {
+      "name": "TODO: Family name, Given names",
+      "affiliation": "Universiti Teknologi Malaysia",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["optical spectrum analyzer", "fiber optic sensor", "refractive index",
+               "multimode interference", "machine learning", "Yokogawa AQ6370"],
+  "related_identifiers": [
+    {
+      "identifier": "TODO: DOI of the Optical Engineering paper once published",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ]
+}

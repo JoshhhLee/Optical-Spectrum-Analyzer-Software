@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+env_osa/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+catboost_info/
+# analysis outputs and personal data stay out of the repository
+*.joblib
+*.osasession
+*.provenance.json
+results/
+.vscode/
+.idea/
